@@ -16,7 +16,7 @@ Test repository to learn GitHub
 ## Features / Issues
 * [X] #5 Add README.md 
 * [X] #1 Add languages.json
-* [ ] #2 Add English to languages.json
+* [X] #2 Add English to languages.json
 * [ ] #3 Add Italiano to languages.json
 * [ ] #4 Add de.json
 
