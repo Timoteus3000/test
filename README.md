@@ -17,7 +17,7 @@ Test repository to learn GitHub
 * [X] #5 Add README.md 
 * [X] #1 Add languages.json
 * [X] #2 Add English to languages.json
-* [X] #3 Add Italiano to languages.json
+* [X] GH-3 Add Italiano to languages.json
 * [X] #4 Add de.json
 
 ## Install
