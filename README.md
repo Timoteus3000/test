@@ -18,7 +18,7 @@ Test repository to learn GitHub
 * [X] #1 Add languages.json
 * [X] #2 Add English to languages.json
 * [ ] #3 Add Italiano to languages.json
-* [ ] #4 Add de.json
+* [X] #4 Add de.json
 
 ## Install
 
