@@ -4,7 +4,7 @@ Test repository to learn GitHub
 ## Table of contents
 1. [Used](#used)
 1. [System Requirements](#system-requirements)
-1. [Features / Issues](#features-/-issues)
+1. [Features / Issues](#features)
 1. [Install](#install)
     1. [Via GitHub](#via-github)
 1. [Credits](#credits)
